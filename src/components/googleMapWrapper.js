@@ -33,7 +33,7 @@ export class GoogleMapWrapper extends React.PureComponent {
           }))
         },
         error => {
-          console.log(error);
+          // console.log(error);
         }
       )
     } 
