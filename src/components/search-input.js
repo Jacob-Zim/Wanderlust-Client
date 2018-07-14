@@ -31,7 +31,7 @@ export class Search extends React.Component {
             id="locationInput"
             placeholder="Location"
           />
-          <button className={"search-button"} type="submit" aria-label="search">SEARCH</button>
+          <button className={"search-button"} type="submit" aria-label="search"></button>
           <br/>
         </form>
       </div>

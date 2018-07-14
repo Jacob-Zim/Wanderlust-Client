@@ -126,12 +126,11 @@
     top: 9px;
     font-size: 0px;
     height: 43px;
-    width: 44px;
-    right: 20px;
+    width: 35px;
+    right: 5px;
     background-image: url('../images/logoutBtn.png');
     background-position: 80% 50%;
     background-size: 33px 33px;
     background-repeat: no-repeat;
   }
-
 }
